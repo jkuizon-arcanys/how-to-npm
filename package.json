@@ -1,0 +1,16 @@
+{
+  "name": "@j.kuizon.arcanys/npmtraining",
+  "version": "1.0.2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkuizon-arcanys/how-to-npm.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {}
+}
